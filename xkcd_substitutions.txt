@@ -1,37 +1,38 @@
 WORD	SUBSTITUTE
-Debate	Dance-Off
-Self-Driving	Uncontrollably Swerving
-Poll	Psychic Reading
-Candidate	Airbender
-Drone	Dog
-Vows to	Probably won't
-At large	Very large
-Successfully	Suddenly
-Expands	Physically Expands
-First-Degree	Friggin' Awful
-An unknown Number	Like Hundreds
-Front Runner	Blade Runner
-Global	Spherical
-Years	Minutes
-Minutes	Years
-No Indication	Lots of Signs
-Urged Restraint By	Drunkenly Egged on
-Horsepower	Tons of Horsemeat
-Witnesses	These dudes I know
-Allegedly	Kinda Probably
-New Study	Tumblr Post
-Rebuild	Avenge
-Space	Spaaace
-Google Glass	Virtual Boy
-Smartphone	Pokedex
-Electric	Atomic
-Senator	Elf-Lord
-Car	Cat
-Election	Eating Context
-Congressional Leaders	River Spirits
-Homeland Security	Homestar Runner
-Could Not be Reached for Comment	Is Guilty and Everyone Knows It
+debate	dance-off
+self-driving	uncontrollably swerving
+poll	psychic reading
+candidate	airbender
+drone	dog
+vows to	probably won't
+at large	very large
+successfully	suddenly
+expands	physically expands
+first-degree	friggin' awful
+an unknown number	like hundreds
+front runner	blade runner
+global	spherical
+years	minutes
+minutes	years
+no indication	lots of signs
+urged restraint by	drunkenly egged on
+horsepower	tons of horsemeat
+witnesses	these dudes i know
+allegedly	kinda probably
+new study	tumblr post
+rebuild	avenge
+space	spaaace
+google glass	virtual boy
+smartphone	pokedex
+electric	atomic
+senator	elf-lord
+car	cat
+election	eating contest
+congressional leaders	river spirits
+homeland security	homestar runner
+could not be reached for comment	is guilty and everyone knows it
 Trump	Drumpf
+Senator	Elf-Lord
 Sen.	Elf-Lord
 Democrat	Montague
 Republican	Capulet
@@ -51,10 +52,13 @@ Campaign	application
 Delegate	Leg Ates
 primaries	primates
 primary	primate
-candidate	applicant
 Barack Obama	Barry O.
 National	Interstellar
-Partisan	Geurilla
+national	interstellar
+Partisan	party-time
+partisan	party-time
 Bush	Tree
 point	on-point
 voter	vaulter
+Poll	Psychic Reading
+supporter	minion
