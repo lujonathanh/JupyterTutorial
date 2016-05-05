@@ -1,8 +1,6 @@
 # JupyterTutorial
 
 # Installation and Setup
-<a href='#TableOfContents'>Back to Table of Contents</a>
-
 
 If you'd like to follow along, you should first install Python 2.7. (note if you have Mac OS X, Python should come with your computer already)
 
